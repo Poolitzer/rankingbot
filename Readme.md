@@ -1,0 +1,1 @@
+Hey, I am giving you as very simple way of generating a leaderboard message in a chat. 
